@@ -1,5 +1,5 @@
 Hi, I’m @HasmukhReal
--  I’m interested in Programming, problem solving, space stuff, quantum physics, latest technology and gadgets.
+-  I’m interested in Programming, problem solving, space stuff, quantum physics, latest technology and gadgets. I love maths.
 -  I’m currently learning python and I'm a beginner.
 
 <!---
