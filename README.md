@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
@@ -20,7 +21,9 @@
 
 # 🚀 About Me
 
-<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<table>
+<tr>
+<td width="60%">
 
 - 🔭 Working on **CLI Expense Tracker**
 - 🌱 Learning **Python, Git, Linux & DSA**
@@ -28,7 +31,15 @@
 - 🎯 Goal: Become internship-ready with strong projects
 - ⚡ Fun fact: I enjoy turning ideas into projects
 
-<br><br>
+</td>
+
+<td width="40%" align="center">
+
+<img alt="Coding" width="300" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,18 +62,26 @@
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode,bash" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,linux,arduino,vscode,bash&perline=6" />
+
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
+
 </p>
 
 ---
 
-# 📂 Featured Project
+# 📂 Featured Projects
 
 <div align="center">
 
@@ -70,15 +89,26 @@
 
 Simple and beginner-friendly Python CLI application to manage daily expenses.
 
-### Features
+🔗 Repository:  
+[Expense Tracker](https://github.com/HasmukhReal/expense-tracker)
 
-✅ Add expenses  
-✅ Category-wise tracking  
-✅ Store expense records  
-✅ Easy command-line interface  
+---
+
+## 📊 Productivity Dashboard
+
+A productivity-focused dashboard project designed to improve workflow and task management.
 
 🔗 Repository:  
-[Click Here](https://github.com/HasmukhReal/expense-tracker)
+[Productivity Dashboard](https://github.com/HasmukhReal/productivity-dashboard)
+
+---
+
+## 🎓 Student Management System
+
+A management system project for handling student records and operations.
+
+🔗 Repository:  
+[Student Management System](https://github.com/HasmukhReal/student-management-system)
 
 </div>
 
@@ -87,7 +117,7 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 # 📚 Coding Journey
 
 <p align="center">
-  <img src="https://invalid-link-for-commit-bug.svg" width="500"/>
+  <img src="https://github.githubassets.com/images/modules/site/features/copilot/copilot.png" width="700"/>
 </p>
 
 ```text
@@ -96,6 +126,20 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 2026 ─ Learning DSA + Open Source
 2026 ─ Building More Real Projects
 ````
+
+---
+
+# 🏅 Achievements & Certifications
+
+<p align="center">
+
+🥇 Building Multiple Real-World Beginner Projects
+📚 Learning Computer Engineering & Python
+🚀 Active GitHub Contributor
+💻 Exploring Open Source Development
+⚡ Consistently Improving Development Skills
+
+</p>
 
 ---
 
@@ -147,6 +191,8 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+
 <p align="center">
- Building • Learning • Growing 
+✨ Building • Learning • Growing ✨
 </p>
