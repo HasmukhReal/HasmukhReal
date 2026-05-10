@@ -1,114 +1,126 @@
-
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
-Passionate Computer Engineering Student • Python Learner • Builder from India 🇮🇳
+💻 Computer Engineering Student | 🚀 Python Developer | 🇮🇳 India
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Python+Developer;CLI+Projects+Builder;Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Engineering+Student;Open+Source+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
 </p>
 
-<img width="1369" height="1149" alt="Hasmukh Banner" src="https://github.com/user-attachments/assets/ce4be353-b794-4069-a8ee-4c82b72239c3" />
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **CLI Expense Tracker**
-- 🌱 Learning **Python, Git, Linux, and Computer Engineering**
-- 💡 Interested in **Software Development, Automation, and Embedded Systems**
-- 🎯 Goal: Build strong projects and crack great internship opportunities
-- ⚡ Fun fact: I enjoy learning by building projects
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
+- 🔭 Working on **CLI Expense Tracker**
+- 🌱 Learning **Python, Git, Linux & DSA**
+- 💡 Exploring **Embedded Systems and Automation**
+- 🎯 Goal: Become internship-ready with strong projects
+- ⚡ Fun fact: I learn fastest by building projects
 
-## 📂 Featured Project
-
-### 💰 CLI Expense Tracker
-A command-line based expense tracking application built using Python.
-
-#### Features
-- Add and manage expenses
-- Category-wise tracking
-- Data storage using files
-- Simple and beginner-friendly CLI interface
-
-🔗 Repository:  
-[CLI Expense Tracker](https://github.com/HasmukhReal/expense-tracker)
+<br><br>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/patankar_nihal" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+<a href="https://instagram.com/patankar_nihal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-## 🛠 Languages and Tools
-
-<p align="left">
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<a href="mailto:patankarnihal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasmukhreal&theme=algolia&margin-w=15&margin-h=15" alt="Trophies" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
+
 </p>
 
 ---
 
-## 📈 Profile Views
+# 📂 Featured Project
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hasmukhreal&label=Profile%20views&color=0e75b6&style=flat" alt="hasmukhreal" />
+<div align="center">
+
+## 💰 CLI Expense Tracker
+
+Simple and beginner-friendly Python CLI application to manage daily expenses.
+
+### Features
+✅ Add expenses  
+✅ Category-wise tracking  
+✅ Store expense records  
+✅ Easy command-line interface  
+
+🔗 Repository:  
+[Click Here](https://github.com/HasmukhReal/expense-tracker)
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonnight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hasmukhreal&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# 📈 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hasmukhreal&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
 </p>
