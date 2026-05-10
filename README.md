@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
+<h1 align="center">Hi 👋, I'm  (Nihal Patankar)</h1>
 
 <h3 align="center">
 💻 Computer Engineering Student | 🚀 Python Developer | 🇮🇳 India
