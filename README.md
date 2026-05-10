@@ -1,4 +1,3 @@
-````md id="j2v9qx"
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
@@ -151,4 +150,3 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 <p align="center">
 ✨ Building • Learning • Growing ✨
 </p>
-```
