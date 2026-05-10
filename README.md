@@ -48,21 +48,19 @@
 
 ---
 
-# 🌐 Connect With Me
+# 🛠 Tech Stack
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode" />
 
-<a href="https://instagram.com/patankar_nihal" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</p>
 
-<a href="mailto:patankarnihal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
 
 </p>
 
