@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
@@ -59,25 +58,45 @@
 
 ---
 
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/patankar_nihal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:patankarnihal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
 # 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,linux,arduino,vscode,bash&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,linux,arduino,vscode,bash&theme=dark" />
 
-</p>
+<br><br>
 
-<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/>
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-
-</p>
+</div>
 
 ---
 
@@ -117,7 +136,10 @@ A management system project for handling student records and operations.
 # 📚 Coding Journey
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/site/features/copilot/copilot.png" width="700"/>
+  <img 
+    src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" 
+    width="180"
+  />
 </p>
 
 ```text
@@ -147,14 +169,22 @@ A management system project for handling student records and operations.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonight"/>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonight&border_radius=10"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=tokyonight"/>
+<img 
+height="180em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=tokyonight&border_radius=10"
+/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=hasmukhreal&theme=tokyonight&border_radius=10" 
+  />
 </p>
 
 ---
@@ -194,5 +224,5 @@ A management system project for handling student records and operations.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 <p align="center">
-✨ Building • Learning • Growing ✨
+Building • Learning • Growing
 </p>
