@@ -148,5 +148,5 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 ---
 
 <p align="center">
-✨ Building • Learning • Growing ✨
+ Building • Learning • Growing 
 </p>
