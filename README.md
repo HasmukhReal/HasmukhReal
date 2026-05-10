@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Engineering+Student;Open+Source+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Engineering+Student;[...]
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 
 <p align="center">
 
-> “Consistency beats motivation.”
+> "Consistency beats motivation."
 
 </p>
 
@@ -147,7 +147,7 @@ A management system project for handling student records and operations.
 2025 ─ Built CLI Expense Tracker
 2026 ─ Learning DSA + Open Source
 2026 ─ Building More Real Projects
-````
+```
 
 ---
 
@@ -178,8 +178,6 @@ A management system project for handling student records and operations.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasmukhReal&theme=github-dark-blue" />
 </p>
-```
-
 
 ---
 
