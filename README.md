@@ -1,3 +1,4 @@
+````md id="j2v9qx"
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
@@ -18,9 +19,9 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="340" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🔭 Working on **CLI Expense Tracker**
 - 🌱 Learning **Python, Git, Linux & DSA**
@@ -51,35 +52,13 @@
 # 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode,bash" />
 </p>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
-
-</p>
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode,bash" />
-
-</p>
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
 </p>
 
 ---
@@ -125,16 +104,22 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonnight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight" />
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasmukhReal&theme=tokyo-night"/>
 </p>
 
 ---
