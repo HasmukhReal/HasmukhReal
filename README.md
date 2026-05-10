@@ -168,26 +168,18 @@ A management system project for handling student records and operations.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img 
-height="170em" 
-src="https://github-readme-stats.vercel.app/api?username=HasmukhReal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
-<img 
-height="170em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasmukhReal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HasmukhReal&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-
-<img 
-src="https://streak-stats.demolab.com?user=HasmukhReal&theme=tokyonight&hide_border=true&border_radius=12"
-/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasmukhReal&layout=compact&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasmukhReal&theme=github-dark-blue" />
+</p>
+```
+
 
 ---
 
