@@ -8,8 +8,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Engineering+Student;Open+Source+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
 </p>
 
+---
+
+# ⚡ Personal Banner
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://github.com/user-attachments/assets/ce4be353-b794-4069-a8ee-4c82b72239c3" alt="Hasmukh Banner"/>
 </p>
 
 ---
@@ -22,28 +26,24 @@
 - 🌱 Learning **Python, Git, Linux & DSA**
 - 💡 Exploring **Embedded Systems and Automation**
 - 🎯 Goal: Become internship-ready with strong projects
-- ⚡ Fun fact: I learn fastest by building projects
+- ⚡ Fun fact: I enjoy turning ideas into projects
 
 <br><br>
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Developer Mindset
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+> “Consistency beats motivation.”
 
-<a href="https://instagram.com/patankar_nihal" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+</p>
 
-<a href="mailto:patankarnihal@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building_Projects-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Learner-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -66,6 +66,24 @@
 
 ---
 
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,git,linux,arduino,vscode,bash" />
+
+</p>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
+
+</p>
+
+---
+
 # 📂 Featured Project
 
 <div align="center">
@@ -75,6 +93,7 @@
 Simple and beginner-friendly Python CLI application to manage daily expenses.
 
 ### Features
+
 ✅ Add expenses  
 ✅ Category-wise tracking  
 ✅ Store expense records  
@@ -84,6 +103,21 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 [Click Here](https://github.com/HasmukhReal/expense-tracker)
 
 </div>
+
+---
+
+# 📚 Coding Journey
+
+<p align="center">
+  <img src="https://invalid-link-for-commit-bug.svg" width="500"/>
+</p>
+
+```text
+2025 ─ Started Learning Programming
+2025 ─ Built CLI Expense Tracker
+2026 ─ Learning DSA + Open Source
+2026 ─ Building More Real Projects
+````
 
 ---
 
@@ -105,6 +139,14 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
@@ -116,11 +158,12 @@ Simple and beginner-friendly Python CLI application to manage daily expenses.
 # 📈 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hasmukhreal&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=hasmukhreal&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
 <p align="center">
-✨ Thanks for visiting my profile ✨
+✨ Building • Learning • Growing ✨
 </p>
+```
