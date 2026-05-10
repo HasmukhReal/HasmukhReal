@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm HasmukhReal (Nihal Patankar)</h1>
 
 <h3 align="center">
@@ -7,6 +6,10 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;Computer+Engineering+Student;Open+Source+Learner;Building+Projects+Every+Day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:0f172a,100:0ea5e9&text=HasmukhReal&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 </p>
 
 ---
@@ -59,24 +62,40 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,git,linux,arduino,vscode,bash&perline=6" />
+<a href="https://www.linkedin.com/in/nihal-p-8b6bb93a1/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/patankar_nihal" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:patankarnihal@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,arduino,bash&theme=dark" />
+
+</div>
 
 <br>
 
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60"/>
-
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%26%20CSS-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/Programming-C%20%2B%2B-blueviolet?style=for-the-badge&logo=cplusplus"/>
 </p>
 
 ---
@@ -117,7 +136,10 @@ A management system project for handling student records and operations.
 # 📚 Coding Journey
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/site/features/copilot/copilot.png" width="700"/>
+  <img 
+    src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" 
+    width="180"
+  />
 </p>
 
 ```text
@@ -133,11 +155,11 @@ A management system project for handling student records and operations.
 
 <p align="center">
 
-🥇 Building Multiple Real-World Beginner Projects
-📚 Learning Computer Engineering & Python
+🥇 Building Real-World Projects
 🚀 Active GitHub Contributor
+📚 Learning Computer Engineering & Python
 💻 Exploring Open Source Development
-⚡ Consistently Improving Development Skills
+⚡ Consistently Improving Problem Solving Skills
 
 </p>
 
@@ -147,22 +169,53 @@ A management system project for handling student records and operations.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=tokyonight"/>
+<img 
+height="170em" 
+src="https://github-readme-stats.vercel.app/api?username=HasmukhReal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=tokyonight"/>
+<img 
+height="170em" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasmukhReal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"
+/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasmukhreal&theme=tokyonight"/>
+
+<img 
+src="https://streak-stats.demolab.com?user=HasmukhReal&theme=tokyonight&hide_border=true&border_radius=12"
+/>
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasmukhReal&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasmukhReal&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HasmukhReal&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HasmukhReal&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HasmukhReal&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HasmukhReal&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -170,15 +223,7 @@ A management system project for handling student records and operations.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hasmukhreal&theme=algolia&margin-w=15&margin-h=15"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -186,13 +231,23 @@ A management system project for handling student records and operations.
 # 📈 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=hasmukhreal&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=HasmukhReal&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
+# 💡 Quote of the Day
 
 <p align="center">
-✨ Building • Learning • Growing ✨
+
+> "Great developers are built through consistency, curiosity, and projects."
+
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer"/>
+
+<p align="center">
+Building • Learning • Growing
 </p>
