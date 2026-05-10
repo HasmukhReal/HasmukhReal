@@ -168,11 +168,11 @@ A management system project for handling student records and operations.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasmukhReal&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasmukhreal&show_icons=true&theme=github_dark&cache_seconds=43200" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasmukhReal&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmukhreal&layout=compact&theme=github_dark&cache_seconds=43200" />
 </p>
 
 <p align="center">
