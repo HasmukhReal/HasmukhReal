@@ -17,7 +17,7 @@
 # ⚡ Personal Banner
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ce4be353-b794-4069-a8ee-4c82b72239c3" alt="Hasmukh Banner"/>
+  <img width="1983" height="793" alt="profile_banner" src="https://github.com/user-attachments/assets/f8109d70-345b-4b72-89f1-2a0789de87c2" />
 </p>
 
 ---
